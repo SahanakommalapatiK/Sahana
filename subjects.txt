@@ -1,3 +1,7 @@
 maths
 science
 CS
+
+
+Data structures
+English
